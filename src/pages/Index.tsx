@@ -2,17 +2,17 @@ import ArcGalleryHero from "@/components/ArcGalleryHero";
 
 const Index = () => {
   const images = [
+    "https://cdn.poehali.dev/projects/30dbeb52-50dc-4b0e-9abb-806c94f01a04/files/564801ad-56de-4d39-a5d1-73b9a9337ff1.jpg",
+    "/abstract-blue-gradient.webp",
+    "https://cdn.poehali.dev/projects/30dbeb52-50dc-4b0e-9abb-806c94f01a04/files/b2c2e4f0-68ce-4fe2-8f4c-1193b5d66e7e.jpg",
     "/freepik__enhance__98192.png",
-    "/LS.png",
-    "/freepik__a-closeup-shot-features-a-glossy-purple-crossshape__48873.png",
+    "https://cdn.poehali.dev/projects/30dbeb52-50dc-4b0e-9abb-806c94f01a04/files/2083620e-4b0d-443e-87f5-7b5e5215c565.jpg",
+    "/freepik__abstract-digital-art-featuring-a-series-of-horizon__489.png",
+    "/slide.png",
     "/freepik__the-style-is-3d-model-with-octane-render-volumetri__57555.png",
     "/eqirGoRIJPaIMgEUeliWpNxeFmI.jpg",
-    "/ultra-detailed_close-up_side_profile_of_a_dark-skinned_model_wearing_futuristic_chrome_wraparound_s_ps17q5ms2ptu5t6bdru6_2.png",
-    "/slide.png",
-    "/freepik__abstract-digital-art-featuring-a-series-of-horizon__489.png",
-    "/abstract-blue-gradient.webp",
     "/VkvvhXlWo3hEBzcqwTpjd_aa4bf9ee998f4ec0b17a8bf16fe3e9e2.jpg",
-    "/hyperrealistic_commercial_product_photography_of_luxury_chrome_sunglasses_on_male_model_extreme_chi_fanguv2w9zx489lcivwa_2.png",
+    "/LS.png",
   ];
 
   return (
